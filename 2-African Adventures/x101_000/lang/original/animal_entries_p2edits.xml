@@ -1,0 +1,154 @@
+﻿<ZT2Strings>
+
+   <zoopedia_peafowl version="2">
+      <entry>Peafowl, Common</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Temperate Forest</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asia</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+
+                     Class:  	Birds                                                        
+                     
+                     <i>(Aves)</i>
+                     <br/>
+
+                     Order:		Gamebirds                                                        
+                     
+                     <i>(Galliformes)</i>
+                     <br/>
+
+                     Family:		Quails, partridge, francolins, pheasants, 	                                                       
+                     
+                     <br/>
+
+                     grouse, turkey                                                        
+                     
+                     <i>(Phasianidae)</i>
+                     <br/>
+
+                     Genus:		                                                       
+                     
+                     <i>Pavo  </i>
+                     <br/>
+
+                     Species:	                                                       
+                     
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">      						Fun Common Peafowl Facts      					</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			Peacocks (males) and peahen (females) subsist on an omnivorous diet of worms, insects, small snakes, and seeds.		</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            To unlock the common peafowl  in challenge or campaign games, you must earn a 1/2-star zoo fame rating for your zoo.
+            </color>
+            <p/>
+
+            
+                                                  Peafowl, or peacock, is a common name for three members of the pheasant family. Although these birds are more commonly called peacocks, that name is properly applied only to males; females are called peahens. Two species are Asian: the common or Indian peafowl, and the green peafowl. The third species, the Congo peafowl, is known only from the forests of the Democratic Republic of the Congo (DRC, formerly Zaire). The Asian peacocks are noted for their resplendent trains of long upper tail coverts, which conceal their relatively short tails, and are raised and spread in strutting displays. The feathers are generally iridescent green and gold and are ornamented with eyelike markings of a rich color, known as peacock blue. The same blue also appears on the head, neck, breast, and crest of the common peacock; in the green peacock the head, neck, and underparts are green. The peahens have no trains and are less colorful than the males. Peafowl build their nests on the ground or in the low branches of trees. The birds subsist on an omnivorous diet of worms, insects, small snakes, and seeds.                                    
+           
+
+            <p/>
+
+            
+                                                The common peafowl has been domesticated in many parts of the world, and there are feral populations in the Hawaiian Islands. A white variety has been produced by selective breeding.                           
+         
+         
+         
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+
+            
+                                                 Content provided courtesy of                         
+            
+            
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+
+            
+                                                              (C) 1993-2003 Microsoft Corporation. All rights reserved.                           
+         
+         
+         
+         </cell>
+      </text>
+   </zoopedia_peafowl>
+  
+      
+</ZT2Strings>

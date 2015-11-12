@@ -1,0 +1,10 @@
+<ZT2Strings>
+      <LOC_STRING _locID="animalactions:AmbushOther"  >Ambushing %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:GatherPride"  >Calling pride members</LOC_STRING>
+      <LOC_STRING _locID="animalactions:JoinPride"  >Going to join pride</LOC_STRING>
+      <LOC_STRING _locID="animalactions:MoveAsPride"  >Moving as a pride</LOC_STRING>
+      <LOC_STRING _locID="animalactions:HuntAsPride"  >Hunting %s as a pride</LOC_STRING>
+      <LOC_STRING _locID="animalactions:LeadingPrideTo"  >Leading pride to %s</LOC_STRING>
+      <LOC_STRING _locID="animalactions:LeadingPride"  >Leading pride</LOC_STRING>
+      <LOC_STRING _locID="animalactions:PrideCallMissing"  >Calling for lost pride member</LOC_STRING>
+</ZT2Strings>

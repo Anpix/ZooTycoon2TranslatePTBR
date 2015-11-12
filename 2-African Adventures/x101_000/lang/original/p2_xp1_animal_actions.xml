@@ -1,0 +1,12 @@
+<ZT2Strings>
+   <animalactions>
+      <AmbushOther>Ambushing %s</AmbushOther>
+      <GatherPride>Calling pride members</GatherPride>
+      <JoinPride>Going to join pride</JoinPride>
+      <MoveAsPride>Moving as a pride</MoveAsPride>
+      <HuntAsPride>Hunting %s as a pride</HuntAsPride>
+      <LeadingPrideTo>Leading pride to %s</LeadingPrideTo>
+      <LeadingPride>Leading pride</LeadingPride>
+      <PrideCallMissing>Calling for lost pride member</PrideCallMissing>      
+   </animalactions>
+</ZT2Strings>

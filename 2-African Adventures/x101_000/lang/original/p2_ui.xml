@@ -1,0 +1,12 @@
+<ZT2Strings>
+   <entityinfo>
+      <conservation_extinct_stt>Extinct</conservation_extinct_stt>
+      <conservation_extinct>
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>Extinct</b>
+            </color>
+         </font>
+      </conservation_extinct>      
+   </entityinfo>
+</ZT2Strings>
